@@ -6,7 +6,7 @@ Carlos Natalino, Amaro de Sousa, Lena Wosinska and Marija Furdek
 ### What's in this repo?
 
 - The topologies files describing the topologies used in the work (`topologies` folder)
-Germany50             |  Coronet
+| Germany50             |  Coronet |
 :-------------------------:|:-------------------------:
 ![Germany50](./figures/Germany50_original.svg)  |  ![Coronet Conus](./figures/Coronet_original.svg)
 - The solutions of the ILP models from the paper (`data` folder)
